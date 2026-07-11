@@ -1,6 +1,6 @@
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Naman%20Sharma&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%2FML&descSize=18&descAlignY=52" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1a1b26,50:414868,100:7aa2f7&text=Naman%20Sharma&fontSize=50&fontColor=c0caf5&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%2FML&descSize=20&descAlignY=54&section=header" width="100%" alt="banner"/>
 </div>
 
 <!-- ======================= TYPING ANIMATION ======================= -->
@@ -130,6 +130,17 @@ Software Engineer building **scalable, API-driven backend systems** and **AI/ML-
   <a href="https://leetcode.com/u/namansharma26">
     <img src="https://leetcard.jacoblin.cool/namansharma26?theme=nord&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
   </a>
+</div>
+
+<!-- ======================= SNAKE ANIMATION ======================= -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namanns7cr7/Namanns7cr7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Namanns7cr7/Namanns7cr7/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Namanns7cr7/Namanns7cr7/output/github-snake-dark.svg" alt="snake eating my contributions" width="100%"/>
+  </picture>
 </div>
 
 <!-- ======================= FOOTER ======================= -->
