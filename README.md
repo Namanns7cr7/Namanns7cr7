@@ -6,7 +6,7 @@
 <!-- ======================= TYPING ANIMATION ======================= -->
 <div align="center">
   <a href="https://github.com/Namanns7cr7">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SDE+Intern+%40+OfBusiness;Top+15+in+India+%E2%80%94+Google+Cloud+Agentic+Premier+League;Building+AI+Agents+%26+RAG+Systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+FastAPI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=SDE+%40+OfBusiness;Top+15+in+India+%E2%80%94+Google+Cloud+Agentic+Premier+League;Building+AI+Agents+%26+RAG+Systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+FastAPI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,7 +22,7 @@
 
 Software Engineer building **scalable, API-driven backend systems** and **AI/ML-enabled applications**. Hands-on with microservice platforms, RAG pipelines, and performance optimization on production systems serving **2,000+ business workflows**.
 
-- 💼 **SDE Intern @ OfBusiness** — full-stack work on SMEAssist (Java, Spring Boot, React, TypeScript)
+- 💼 **SDE @ OfBusiness** — full-stack work on SMEAssist (Java, Spring Boot, React, TypeScript)
 - 🏆 **Top 15 developers in India** — Google Cloud *Build with AI: Agentic Premier League* Grand Finale (3,000+ developers, 30+ events)
 - 🤖 Deep in **agentic systems & RAG** — LangChain, FAISS, query routing, self-reflection loops
 - 🎓 B.Tech in Information Technology, **Manipal University Jaipur** ('26) — Minor in Data Science
